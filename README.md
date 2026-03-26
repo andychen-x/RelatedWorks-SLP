@@ -69,6 +69,7 @@ Sign Language Production (SLP) is a research and technology field dedicated to a
 
 ## Sign Avater 
 ### 2024
+- Expressive Gaussian Human Avatars from Monocular RGB Video. [NeurIPS-ccfa][[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0a85f2414e354f9d61ffea5705a8bbf4-Paper-Conference.pdf)]
 - Neural Sign Actors: A diffusion model for 3D sign language production from text. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
 - SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [ECCV-ccfb][[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00653.pdf)]
 - A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [ECCV-ccfb][[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)]
