@@ -29,6 +29,12 @@ Sign Language Production (SLP) is a research and technology field dedicated to a
 ### 2025
 - Diffusion-Based Continuous Sign Language Generation with Cluster-Specific Fine-Tuning and Motion-Adapted Transformer. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2025W/SLRTP/papers/Rastgoo_Diffusion-Based_Continuous_Sign_Language_Generation_with_Cluster-Specific_Fine-Tuning_and_Motion-Adapted_CVPRW_2025_paper.pdf)]
 - Sign-Mamba: Advanced Mamba-Based Sign Language Generation. [ICASSP-ccfb][[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890373)]
+- GReg: Geometry-Aware Region Refinement for Sign Language Video Generation.[ICCV-ccfa][[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.html)]
+- VMarker-Pro: Probabilistic 3D Human Mesh Estimation From Virtual Markers.[TPAMI-ccfa][[Paper](https://ieeexplore.ieee.org/document/10856385)]
+- SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Hong_SALAD_Skeleton-aware_Latent_Diffusion_for_Text-driven_Motion_Generation_and_Editing_CVPR_2025_paper.html)]
+
+2024
+
 
 ### 2024
 - T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [ACL-ccfa][[Paper](https://aclanthology.org/2024.acl-long.183.pdf)]
@@ -76,6 +82,11 @@ Sign Language Production (SLP) is a research and technology field dedicated to a
 ## Sign Avater 
 ### 2026
 - How2Sign-Synth3D: Markerless Holistic Sign Language Performance Capture and Synthetic Data for Dense Landmark Tracking. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Tempfli_How2Sign-Synth3D_Markerless_Holistic_Sign_Language_Performance_Capture_and_Synthetic_Data_CVPRF_2026_paper.pdf)]
+- DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors. [WACV-ccfb][[Paper](https://openaccess.thecvf.com/content/WACV2026/html/Kundu_DexAvatar_3D_Sign_Language_Reconstruction_with_Hand_and_Body_Pose_WACV_2026_paper.html)]
+- CoEvoer: Collaborative Evolution Transformer for Upper-Body Expressive Human Pose and Shape Estimation. [AAAI-ccfa][[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38952)]
+- PEAR: Pixel-aligned Expressive humAn mesh Recovery. [SIGGRAPH-ccfa][[Paper](https://dl.acm.org/doi/10.1145/3799902.3811096)]
+- Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator (Hand4Whole++). [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Moon_Enhancing_Hands_in_3D_Whole-Body_Pose_Estimation_with_Conditional_Hands_CVPR_2026_paper.html)]
+
 ### 2024
 - Expressive Gaussian Human Avatars from Monocular RGB Video. [NeurIPS-ccfa][[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0a85f2414e354f9d61ffea5705a8bbf4-Paper-Conference.pdf)]
 - Neural Sign Actors: A diffusion model for 3D sign language production from text. [CVPR-ccfa][[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
